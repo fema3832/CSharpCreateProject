@@ -1,0 +1,17 @@
+D:\Projects\c#\project_create\bin\Debug\net6.0\cproject.exe
+D:\Projects\c#\project_create\bin\Debug\net6.0\cproject.deps.json
+D:\Projects\c#\project_create\bin\Debug\net6.0\cproject.runtimeconfig.json
+D:\Projects\c#\project_create\bin\Debug\net6.0\cproject.dll
+D:\Projects\c#\project_create\bin\Debug\net6.0\cproject.pdb
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.csproj.AssemblyReference.cache
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.Properties.Resources.resources
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.csproj.GenerateResource.cache
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.AssemblyInfoInputs.cache
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.AssemblyInfo.cs
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.csproj.CoreCompileInputs.cache
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.dll
+D:\Projects\c#\project_create\obj\Debug\net6.0\refint\cproject.dll
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.pdb
+D:\Projects\c#\project_create\obj\Debug\net6.0\cproject.genruntimeconfig.cache
+D:\Projects\c#\project_create\obj\Debug\net6.0\ref\cproject.dll

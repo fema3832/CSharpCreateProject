@@ -1,0 +1,5 @@
+D:\Projects\c#\project_create\bin\Debug\net6.0\publish\cproject.exe
+D:\Projects\c#\project_create\bin\Debug\net6.0\publish\cproject.dll
+D:\Projects\c#\project_create\bin\Debug\net6.0\publish\cproject.deps.json
+D:\Projects\c#\project_create\bin\Debug\net6.0\publish\cproject.runtimeconfig.json
+D:\Projects\c#\project_create\bin\Debug\net6.0\publish\cproject.pdb
