@@ -6,8 +6,8 @@ internal static class Program
     static void Main(string[] args)
     {
         static void createProject(string projectType) {
-            var currentDirectory = Environment.CurrentDirectory;
-            var assetsDirectory = currentDirectory + @"\assets\";
+            var currentDirectory = Environment.CurrentDirectory + @"\";
+            var assetsDirectory = currentDirectory + @"assets\";
 
             switch (projectType) {
                 case "html":
@@ -33,11 +33,10 @@ internal static class Program
                 case "c++" or "cpp":
                     try
                     {
-                        Directory.CreateDirectory(assetsDirectory);
                         using (FileStream htmlf = File.Create(currentDirectory + "main.cpp"))
 
                         Thread.Sleep(500);
-                        File.WriteAllText(currentDirectory + "index.html", Resources.cpptemplate);
+                        File.WriteAllText(currentDirectory + "main.cpp", Resources.cpptemplate);
                         Console.WriteLine("The project is created succesfully!");
                     }
                     catch (Exception ex)
@@ -70,6 +69,7 @@ internal static class Program
             }
 
             Console.WriteLine(assetsDirectory);
+            Console.WriteLine(currentDirectory);
         }
 
         if (args.Length == 0)
